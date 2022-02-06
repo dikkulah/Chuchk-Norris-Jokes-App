@@ -1,13 +1,13 @@
-package com.dikkulah.cemyilmazjokesapp;
+package com.dikkulah.chucknorrisjokesapp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class CemYilmazJokesAppApplication {
+public class ChuckNorrisJokesAppApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(CemYilmazJokesAppApplication.class, args);
+        SpringApplication.run(ChuckNorrisJokesAppApplication.class, args);
     }
 
 }
